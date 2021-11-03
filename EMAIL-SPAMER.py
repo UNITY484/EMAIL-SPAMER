@@ -6,12 +6,12 @@ print ("""\033[1;30m
     =========================================
     "                                       "
     "					    "
-    "     	\033[0;32m SPAM EMAIL 2021  \033[1;30m          "
+    "     	\033[0;32m EMAIL-SPAMER 2021  \033[1;30m          "
     "     	 	                    "
     "                                       "
     =========================================
 """)
-USER = input("SET EMAILHACKER : ")
+USER = input("SET EMAIL HACKER : ")
 I = 'unity484.non@gmail.com'
 PASS = input("SET EMAILPASSWORD : ")
 to2 = input("To : ")
